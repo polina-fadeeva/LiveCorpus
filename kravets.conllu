@@ -996,7 +996,7 @@
 993	я	я	PRON	_	Case=Nom|Number=Sing|Person=1	_	_	_	words@oyk1977f#@oyk1977f#293.183#293.511
 994	очень	очень	ADV	_	Degree=Pos	_	_	_	words@oyk1977f#@oyk1977f#293.511#293.839
 995	чётко	четко	ADV	_	Degree=Pos	_	_	_	words@oyk1977f#@oyk1977f#293.839#294.167
-996	осзнаю	осзнать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	words@oyk1977f#@oyk1977f#294.167#294.495
+996	осознаю	осознать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	words@oyk1977f#@oyk1977f#294.167#294.495
 997	одну	один	NUM	_	Case=Acc|Gender=Fem	_	_	_	words@oyk1977f#@oyk1977f#294.495#294.823
 998	вещь	вещь	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	_	_	_	words@oyk1977f#@oyk1977f#294.823#295.151
 999	/	/	PUNCT	_	_	_	_	_	words@oyk1977f#@oyk1977f#295.151#295.479
@@ -1005,7 +1005,7 @@
 1002	не	не	PART	_	_	_	_	_	words@oyk1977f#@oyk1977f#296.135#296.463
 1003	перестану	перестать	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin|Voice=Act	_	_	_	words@oyk1977f#@oyk1977f#296.463#296.791
 1004	быть	быть	AUX	_	Aspect=Imp|VerbForm=Inf|Voice=Act	_	_	_	words@oyk1977f#@oyk1977f#296.791#297.119
-1005	лагодарной	лагодарный	ADJ	_	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing	_	_	_	words@oyk1977f#@oyk1977f#297.119#297.447
+1005	благодарной	благодарный	ADJ	_	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing	_	_	_	words@oyk1977f#@oyk1977f#297.119#297.447
 1006	за	за	ADP	_	_	_	_	_	words@oyk1977f#@oyk1977f#297.447#297.775
 1007	это	это	PRON	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	_	_	_	words@oyk1977f#@oyk1977f#297.775#298.109
 1008	как	как	ADV	_	Degree=Pos	_	_	_	words@oyk1977f#@oyk1977f#298.137#298.472
